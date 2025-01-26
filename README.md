@@ -14,14 +14,20 @@ This is Miksin, a frontend developer passionate about creating web applications.
   <img src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23000000" alt="React" />
   <img src="https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%23FFFFFF" alt="Vue" />
   <img src="https://img.shields.io/badge/svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=%23FFFFFF" alt="Svelte" />
+  <img src="https://img.shields.io/badge/astro-%23BC52EE?style=for-the-badge&logo=astro&logoColor=%23FFFFFF" alt="Astro" />
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF" alt="tailwindcss" />
   <img src="https://img.shields.io/badge/styled_components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=%23FFFFFF" alt="styled-components" />
 </p>
 
-### Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miksin&theme=date_night">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miksin&theme=moltack">
-  <img alt="logo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miksin&theme=date_night">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miksin&theme=date_night">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miksin&theme=moltack">
+    <img alt="logo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miksin&theme=date_night">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miksin&theme=date_night">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miksin&theme=moltack">
+    <img alt="logo" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miksin&theme=date_night">
+  </picture>
+<p>
